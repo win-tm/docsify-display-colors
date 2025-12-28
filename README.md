@@ -1,6 +1,6 @@
 # docsify-display-colors
 
-A [Docsify](https://docsify.js.org/#/) Plugin to visually display small color boxes next to Hexcodes, RGB- or HSL-Colors.
+A [Docsify](https://docsify.js.org/#/) Plugin to visually display small Color-Swatches next to Hexcodes, RGB- or HSL-Colors.
 
 ## Preview
 
